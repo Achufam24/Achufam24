@@ -1,7 +1,7 @@
 Hi 👋 My name is Agbama Achu-ulim
 =================================
 
-Frontend Web and Mobile App Developer
+Frontend Web and Mobile App(Flutter) Developer
 -------------------------------------
 
 👀I'm interested in frontend Development.Building mobile apps with flutter.
