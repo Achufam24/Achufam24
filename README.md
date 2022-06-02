@@ -4,7 +4,7 @@ Hi 👋 My name is Agbama Achu-ulim
 Frontend Web and Mobile App Developer
 -------------------------------------
 
-👀I'm interested in frontend Development.Building mobile apps with flutter. 💞️ I’m looking to collaborate on any project using Vue, Javascript, Flutter. 📫 How to reach me achuulimagbama@gmail.com - Check me out on Linkedin: https://www.linkedin.com/in/achu-agbama/
+👀I'm interested in frontend Development.Building mobile apps with flutter.
 
 * 🌍  I'm based in Cross River, Nigeria
 * 🖥️  See my portfolio at [My portfolio](http://achu-portfolio.netlify.app/#/)
