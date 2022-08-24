@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/Achufam24?logo=github&style=for-the
 
 
 
-<div width="100%" align="center"><a href="https://github.com/Achufam24/sludge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Achufam24&repo=sludge&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Achufam24/mybookify" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Achufam24&repo=mybookify&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
+
 
 
 
