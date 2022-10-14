@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/Achufam24?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Achufam24"><img src="https://github-readme-stats.vercel.app/api?username=Achufam24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Achufam24's GitHub stats" /></a>
+<!--<a href="http://www.github.com/Achufam24"><img src="https://github-readme-stats.vercel.app/api?username=Achufam24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Achufam24's GitHub stats" /></a>-->
 
 <!--<a href="http://www.github.com/Achufam24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Achufam24&stroke=ffffff&background=1e3a8a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
