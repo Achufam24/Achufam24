@@ -9,7 +9,6 @@ Frontend Web and Mobile App(Flutter) Developer
 * 🌍  I'm based in Cross River, Nigeria
 * 🖥️  See my portfolio at [My portfolio](http://achu-portfolio.netlify.app/#/)
 * ✉️  You can contact me at [achuulimagbama@gmail.com](mailto: achuulimagbama@gmail.com)
-* 🚀  I'm currently working on [AgroMart](http://agmart.netlify.app)
 * 🤝  I'm open to collaborating on Vue, Javascript, Flutter
 * ⚡  Thanks for going through my Profile
 
