@@ -8,7 +8,7 @@ Software Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [achuulimagbama@gmail.com](mailto:achuulimagbama@gmail.com)
-* 🧠  I'm learning Fastapi, a python framework
+* 🧠  I'm learning Node Js, a javascript server side framework
 
 ### Skills
 
