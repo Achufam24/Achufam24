@@ -10,11 +10,6 @@ Software Developer
 * 🖥️  See my portfolio at [achu-ulim.netlify.app](http://achu-ulim.netlify.app/)
 * ✉️  You can contact me at [achuulimagbama@gmail.com](mailto:achuulimagbama@gmail.com)
 
-### Skills
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
 
 ### Socials
 
