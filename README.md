@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-👀I'm interested in Software Development. Mobile & Web
+👀I'm interested in Software Development. Mobile, Servers, Cloud Infrastructure, DevOps & Database Administration
 
 * 🌍  I'm based in Calabar, Nigeria
 * 🖥️  See my portfolio at [achu-ulim.netlify.app](http://achu-ulim.netlify.app/)
