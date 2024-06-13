@@ -6,7 +6,6 @@ Software Developer
 
 👀I'm interested in Software Development. Mobile, Servers, Cloud Infrastructure, DevOps & Database Administration
 
-* 🌍  I'm based in Calabar, Nigeria
 * 🖥️  See my portfolio at [achu-ulim.netlify.app](http://achu-ulim.netlify.app/)
 * ✉️  You can contact me at [achuulimagbama@gmail.com](mailto:achuulimagbama@gmail.com)
 
